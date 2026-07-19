@@ -1,7 +1,5 @@
 # note.md
 
-## Azərbaycan dili
-
 - Dataset **541,909 sətir** və **8 sütun**dan ibarətdir.
 - **InvoiceNo** sütununa əsasən ləğv edilmiş sifarişlər ayrıca analiz edildi.
 - Müştəri analizi üçün **CustomerID** olmayan sətirlər silindi.
@@ -15,7 +13,7 @@
 
 ---
 
-## English
+
 
 - The dataset contains **541,909 rows** and **8 columns**.
 - Cancelled orders were identified using the **InvoiceNo** column.
